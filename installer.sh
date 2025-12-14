@@ -1,4 +1,147 @@
-z="
-";DFz='ker/';dEz='== 3';sCz='s/Mu';IBz='tiSt';YFz='2.7.';dDz='siti';RBz='hon ';WGz='t en';vz=''\''htt';LCz='tc/a';HEz='RSIO';HBz='/Mul';FEz='YTHO';EFz='raw/';SFz='-C /';qDz='kerA';Gz='ALL ';yBz='OPKG';jz='Stal';XCz='inst';FCz='opkg';RFz='.gz ';tCz='ltiS';rEz='tar.';PDz='nent';Bz=' " D';TFz='rf $';QDz='s/Co';VCz='apt-';uEz=' "ht';hDz='ull ';VBz='atfo';dBz='n())';BCz='kg u';eEz='.11.';Pz='0"';WDz=' /de';pz='tc/e';uFz=' plu';GBz='arby';BGz='on "';LGz='TYPE';qEz='-py3';xDz='roSt';qBz='/var';ABz='hubu';NFz=' $TM';GGz='    ';fDz='> /d';aCz=' " R';hz='ns/M';bDz='ervi';IFz='erpr';dz='Plug';BFz='-bar';DCz='e'\''';Rz='IR='\''';ICz='elif';Yz='/lib';KDz='null';qFz='gz';hEz='n';lDz='tion';uz='URL=';QFz='-xzf';GDz='Pro.';nEz='e ..';rDz='udio';LDz=' 2>&';GCz=' ins';vDz='gTex';YBz='t(pl';iz='ulti';kEz='ave ';ZEz='3.11';PGz='then';iFz='y2.7';ODz='ompo';VGz='star';FDz='lker';JDz='dev/';aDz='ProS';NEz='THON';xz='/raw';MGz=' = "';TEz='-o "';UCz='date';JBz='rPro';YEz=' == ';dGz=' 0';wDz='t* >';cCz='e Ol';EDz='iSta';hCz='rf /';REz=' 3.1';nz='INGS';eDz='on* ';QBz='(pyt';VDz='o* >';TCz='t up';eCz='ckag';oz='='\''/e';gBz=' -f ';XGz='igma';sDz='Icon';nCz='on/P';aEz='.2 -';oBz='STAT';ZGz='init';aBz='ytho';sEz='gz'\''';xEz='thub';fz='Exte';jFz='.gz'\''';dCz='d Pa';tDz='roRu';gEz=' the';pBz='US='\''';BBz='serc';PEz='SION';kFz='gz" ';UDz='oInf';Sz='/tmp';vBz='Open';Cz='OWNL';JEz='= 3.';lBz='onf ';Lz=' "';IEz='N" =';Ez='AND ';JGz='pro ';Mz='vers';tBz='OSTY';ZFz='18 ]';SEz='1.1 ';YGz='2';JFz='o-py';rCz='sion';mCz='pyth';sBz='atus';YCz='all'\''';NGz='mOS"';lEz='ION ';DDz='Mult';kDz='solu';tFz='orry';CFz='by/M';wFz='not ';eFz='lti-';fFz='stal';iCz='usr/';UEz='$PYT';Dz='OAD ';az='gma2';nDz='s/Re';qz='nigm';yCz='/nul';GEz='N_VE';kz='kerP';gFz='kerp';oCz='lugi';HDz='json';lCz='ma2/';uBz='PE='\''';FBz='bo-b';OCz='/dpk';pEz='IN='\''';Zz='/eni';Nz='ions';hBz='/etc';BEz='e re';iBz='/opk';NDz='on/C';SBz='-c"i';XFz=' [ "';WBz='rm; ';QGz='slee';HCz='tall';WCz='get ';gDz='ev/n';FGz='*"';oEz='."';Qz='TMPD';jBz='g/op';Oz='="1.';TBz='mpor';qCz='xten';jEz='ou h';dFz='='\''mu';NBz='ON_V';XBz='prin';wz='ps:/';AEz=' "Ol';EEz=' "$P';vCz='erPr';rz='a2/s';GFz='/mul';rBz='g/st';HFz='ti-s';jDz='ceRe';DBz='nt.c';wBz='sour';wEz='//gi';gCz='rm -';ZDz='>&1';XEz='ION"';eBz='")';UBz='t pl';MBz='PYTH';rFz='else';KCz='f /e';fEz='3 ];';cBz='rsio';nBz='hen';sz='etti';MCz='pt/a';bCz='emov';pCz='ns/E';RGz='p 2';Fz='INST';ECz='AL='\''';XDz='v/nu';mz='SETT';VEz='HON_';WFz='.gz';Az='echo';vEz='tps:';CCz='pdat';ZCz='fi';oFz='gz -';ez='ins/';ACz='='\''op';Xz='/usr';PCz='Drea';uDz='nnin';AGz='the ';KGz=' $OS';bGz=' 3';oDz='nder';Wz='TH='\''';EGz='****';Tz=''\''';bEz='o "$';bz='/pyt';CGz=' ""';WEz='VERS';mDz='* > ';MFz=' -qP';Kz='rpro';cGz='exit';gz='nsio';fBz='if [';RDz='nver';TDz='Audi';SCz='t-ge';SGz='syst';bBz='n_ve';bFz='en';hFz='ro-p';wCz='o > ';aFz='; th';cz='hon/';Hz='mult';Jz='alke';mEz='imag';EBz='om/a';Vz='INPA';aGz=' 4';OGz=' ]; ';pDz='er/M';xBz='ce'\''';PBz='ON=$';iEz=' ":Y';xFz='supp';pFz='C /';Iz='i-st';cDz='cePo';lFz='-qP ';kBz='kg.c';iDz='2>&1';QCz='mOS'\''';YDz='ll 2';RCz='='\''ap';OEz='_VER';CBz='onte';fCz='e "';ADz='l 2>';lz='ro'\''';UGz='l re';yz='.git';mBz=']; t';BDz='&1';DEz='d "';SDz='ter/';yDz='ars*';IDz=' > /';VFz='DIR}';KEz='11.0';UFz='{TMP';tz='ngs'\''';CDz='etc/';KBz='/mai';NCz='pt.c';AFz='/abo';DGz=' "**';vFz='gin ';FFz='main';jCz='lib/';MEz='"$PY';PFz='tar ';HGz='   m';nFz='DIR';xCz='/dev';ZBz='rm.p';yEz='.com';tEz='wget';uCz='talk';TGz='emct';QEz='" ==';cFz='INPY';KFz='.tar';LFz='.gz"';JCz=' [ -';cEz='ON" ';sFz=' " S';Uz='PLUG';CEz='move';kCz='enig';IGz='-sta';LEz=' -o ';OBz='ERSI';mFz='$TMP';OFz='PDIR';LBz='n'\''';MDz='1';yFz='ort ';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$mz$nz$oz$pz$qz$rz$sz$tz$z$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$Jz$JBz$KBz$LBz$z$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$VBz$ZBz$aBz$bBz$cBz$dBz$eBz$z$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$z$oBz$pBz$qBz$Yz$iBz$rBz$sBz$Tz$z$tBz$uBz$vBz$wBz$xBz$z$yBz$ACz$BCz$CCz$DCz$z$yBz$Fz$ECz$FCz$GCz$HCz$Tz$z$ICz$JCz$KCz$LCz$MCz$NCz$lBz$mBz$nBz$z$oBz$pBz$qBz$Yz$OCz$rBz$sBz$Tz$z$tBz$uBz$PCz$QCz$z$yBz$RCz$SCz$TCz$UCz$Tz$z$yBz$Fz$ECz$VCz$WCz$XCz$YCz$z$ZCz$z$Az$aCz$bCz$cCz$dCz$eCz$fCz$z$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$z$gCz$hCz$CDz$kCz$lCz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$z$gCz$hCz$iCz$jCz$kCz$lCz$mCz$NDz$ODz$PDz$QDz$RDz$SDz$DDz$EDz$FDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$z$gCz$hCz$iCz$jCz$kCz$lCz$mCz$NDz$ODz$PDz$QDz$RDz$SDz$DDz$EDz$FDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$z$gCz$hCz$iCz$jCz$kCz$lCz$mCz$NDz$ODz$PDz$QDz$RDz$SDz$DDz$EDz$FDz$aDz$bDz$jDz$kDz$lDz$mDz$xCz$yCz$ADz$BDz$z$gCz$hCz$iCz$jCz$kCz$lCz$mCz$NDz$ODz$PDz$nDz$oDz$pDz$iz$jz$qDz$rDz$sDz$mDz$xCz$yCz$ADz$BDz$z$gCz$hCz$iCz$jCz$kCz$lCz$mCz$NDz$ODz$PDz$nDz$oDz$pDz$iz$jz$kz$tDz$uDz$vDz$wDz$WDz$XDz$YDz$ZDz$z$gCz$hCz$iCz$jCz$kCz$lCz$mCz$NDz$ODz$PDz$nDz$oDz$pDz$iz$jz$kz$xDz$yDz$IDz$JDz$KDz$LDz$MDz$z$Az$AEz$dCz$eCz$BEz$CEz$DEz$z$fBz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$MBz$NBz$OBz$cEz$dEz$eEz$fEz$gEz$hEz$z$Az$iEz$jEz$kEz$UEz$VEz$WEz$lEz$mEz$nEz$oEz$z$Uz$pEz$Hz$Iz$Jz$Kz$qEz$eEz$rEz$sEz$z$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$iz$jz$DFz$EFz$FFz$GFz$HFz$uCz$IFz$JFz$ZEz$KFz$LFz$MFz$NFz$OFz$z$PFz$QFz$NFz$OFz$GFz$HFz$uCz$IFz$JFz$ZEz$KFz$RFz$SFz$z$gCz$TFz$UFz$VFz$GFz$HFz$uCz$IFz$JFz$ZEz$KFz$WFz$z$ICz$XFz$UEz$VEz$WEz$XEz$YEz$YFz$ZFz$aFz$bFz$z$Az$iEz$jEz$kEz$UEz$VEz$WEz$lEz$mEz$nEz$oEz$z$Uz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$KFz$jFz$z$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$iz$jz$DFz$EFz$FFz$GFz$HFz$uCz$IFz$JFz$YFz$rEz$kFz$lFz$mFz$nFz$z$PFz$QFz$NFz$OFz$GFz$HFz$uCz$IFz$JFz$YFz$rEz$oFz$pFz$z$gCz$TFz$UFz$VFz$GFz$HFz$uCz$IFz$JFz$YFz$rEz$qFz$z$rFz$z$Az$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$mCz$BGz$z$ZCz$z$Az$CGz$z$Az$DGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$FGz$z$Az$DGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$FGz$z$Az$DGz$GGz$GGz$GGz$GGz$GGz$HGz$iz$IGz$FDz$JGz$GGz$GGz$GGz$GGz$GGz$FGz$z$Az$DGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$GGz$FGz$z$Az$DGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$EGz$FGz$z$Az$CGz$z$fBz$KGz$LGz$MGz$PCz$NGz$OGz$PGz$z$QGz$RGz$z$SGz$TGz$UGz$VGz$WGz$XGz$YGz$z$rFz$z$ZGz$aGz$z$ZGz$bGz$z$ZCz$z$cGz$dGz"
+#!/bin/sh
+#
+echo "DOWNLOAD AND INSTALL multi-stalkerpro"
+
+#
+plugin="multi_stalkerpro"
+git_url="https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main"
+version="1.2"
+PLUGIN_PATH="/usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro"
+SETTINGS='/etc/enigma2/settings'
+temp_dir="/tmp"
+PYTHON_VERSION=$(python --version 2>&1 | awk '{print $2}')
+
+#
+if [ -z "$PYTHON_VERSION" ]; then
+  echo "Python is not installed or could not detect Python version."
+  exit 1
+fi
+
+#
+if command -v apt-get > /dev/null 2>&1; then
+  INSTALL="apt-get install -y"
+  OPKGREMOV="apt-get purge --auto-remove -y"
+  OS='DreamOS'
+elif command -v opkg > /dev/null 2>&1; then
+  INSTALL="opkg install --force-reinstall --force-depends"
+  OPKGREMOV="opkg remove --force-depends"
+  OS='Opensource'
+else
+  echo "Unsupported OS"
+  exit 1
+fi
+
+# 
+[ -e /etc/enigma2/MultiStalkerPro.json ] && cp -f /etc/enigma2/MultiStalkerPro.json "$temp_dir"
+
+# 
+$OPKGREMOV enigma2-plugin-extensions-multi-stalkerpro
+OLD_PACKAGE=(
+  "$PLUGIN_PATH"
+  "/usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo*"
+  "/usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition*"
+  "/usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution*"
+  "/usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon*"
+  "/usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText*"
+  "/usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars*"
+)
+for path in "${OLD_PACKAGE[@]}"; do
+  [ -e "$path" ] && rm -rf "$path"
+done
+echo "Old Package removed"
+
+#
+case $PYTHON_VERSION in
+  3.9.*) PY_VERSION='3.9' ;;
+  3.10.*) PY_VERSION='3.10' ;;
+  3.11.*) PY_VERSION='3.11' ;;
+  3.12.*) PY_VERSION='3.12' ;;
+  2.7.*) PY_VERSION='2.7' ;;
+  *)
+    echo "Unsupported Python version."
+    exit 1
+    ;;
+esac
+
+#
+arch=$(uname -m)
+case $arch in
+  "mips")
+    package_url="$git_url/multi-stalkerpro_mips32el_py${PY_VERSION}.tar.gz"
+    if grep -qiE "openvix|openbh" /etc/image-version; then
+      dependencies=("python3-rarfile_4.1-r0_mips32el.ipk")
+      package_url="$git_url/multi-stalkerpro_mips32el_openvix-openbh_py3.12.tar.gz"
+    elif grep -qi openpli /etc/issue; then
+      dependencies=("python3.9-rarfile_4.1-r0_mips32el.ipk" "python3.9-levenshtein_0.12.0-r0_mips32el.ipk" "python3.9-fuzzywuzzy_0.18.0-r0_mips32el.ipk")
+    fi
+    ;;
+  "armv7l")
+    package_url="$git_url/multi-stalkerpro_armv7ahf_py${PY_VERSION}.tar.gz"
+    if grep -qiE "openvix|openbh" /etc/image-version; then
+      dependencies=("python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk")
+      package_url="$git_url/multi-stalkerpro_armv7ahf_openvix-openbh_py3.12.tar.gz"
+    elif grep -qi openpli /etc/issue; then
+      dependencies=("python3-rarfile_4.1-r0_armv7ahf-neon.ipk" "python3-levenshtein_0.12.0-r0_armv7ahf-neon.ipk" "python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon.ipk")
+    fi
+    ;;
+  "aarch64")
+    package_url="$git_url/multi-stalkerpro_aarch64_py${PY_VERSION}.tar.gz"
+    if grep -qiE "openvix|openbh" /etc/image-version; then
+      dependencies=("python3-rarfile_4.1-r0_aarch64.ipk")
+      package_url="$git_url/multi-stalkerpro_aarch64_openvix-openbh_py3.12.tar.gz"
+    fi
+    ;;
+  *)
+    echo "Unsupported architecture."
+    exit 1
+    ;;
+esac
+
+#
+for dep in "${dependencies[@]}"; do
+  curl -k -L "$git_url/$dep" -o "/tmp/$dep"
+  $INSTALL "/tmp/$dep" && rm -f "/tmp/$dep"
+done
+
+# 
+cd "$temp_dir" || exit 1
+if ! wget "$package_url" -O multi-stalkerpro.tar.gz; then
+  echo "Failed to download the package."
+  exit 1
+fi
+
+if ! tar -xzf multi-stalkerpro.tar.gz -C /; then
+  echo "Failed to extract the package."
+  exit 1
+fi
+rm -f multi-stalkerpro.tar.gz
+
+#
+wget -q --no-check-certificate "$git_url/icon.png" -O "$PLUGIN_PATH/icon.png"
+
+# 
+[ -e /tmp/MultiStalkerPro.json ] && cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json && rm -f /tmp/MultiStalkerPro.json
+
+#
+echo "###############################################################"
+echo "#             multi-stalkerpro installed                      #"
+echo "#              Uploaded By Emil_Nabil                         #"
+echo "###############################################################"
+sleep 3
+echo "          Your Device Will RESTART Now  "
+sleep 2
+
+# 
+if grep -q "DreamOS" /etc/issue && command -v systemctl > /dev/null 2>&1; then
+  systemctl restart enigma2
+else
+  killall -9 enigma2
+fi
+
+exit 0
+
+
+
+
+
 
